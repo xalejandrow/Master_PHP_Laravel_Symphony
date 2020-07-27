@@ -25,5 +25,5 @@
             // Párrafo explicativo
             echo '<p>Esta es una'.' - '.'lista de juegos </p>';
         ?>
-    </body>
+        </body>
 </html>
